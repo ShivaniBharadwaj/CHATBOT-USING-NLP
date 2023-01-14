@@ -38,7 +38,7 @@ We can also create and train the bot by writing an instance of “ListTrainer”
 To interact with our Python chatbot, we can use the. Get_response() function.
         
 5 MAKING OUR CHAT BOT SPEAK
-We can make our chatbot speak the answer for the question asked with the help of library pyttsx3 and by using the .speak() method of the library.
+We can make our chatbot speak answer for the question asked with the help of library pyttsx3 and by using the .speak() method of the library.
              
                                     
 
